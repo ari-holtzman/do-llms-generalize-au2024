@@ -10,7 +10,7 @@ Office hours: 1:30-2:30pm at Searle 213 on Tuesday and Thursdays or by appointme
 
 * Location and time: Tuesday and Thursday 3:30-4:50 at Ryerson 177
 * [Syllabus](syllabus.md) (Required reading!)
-* Canvas (TBD)
+* [Canvas](https://canvas.uchicago.edu/courses/59817)
 
 
 Schedule
