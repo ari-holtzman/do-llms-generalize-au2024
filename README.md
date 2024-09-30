@@ -47,8 +47,11 @@ Schedule
 	* 11/19, [Auxiliary task demands mask the capabilities of smaller language models](https://arxiv.org/abs/2404.02418). Jennifer Hu, Michael C. Frank. COLM 2024.
 
 	* 11/21, [Interpretability Illusions in the Generalization of Simplified Models](https://arxiv.org/abs/2312.03656). Dan Friedman, Andrew Lampinen, Lucas Dixon, Danqi Chen, Asma Ghandeharioun. ICML 2024.
-	
-* Week 9: As n->∞, what are LLMs?
+* Week 9: Can LLMs be thankful?
+    * 11/26, Thanksgiving break!
+
+    * 11/28, Thanksgiving break!
+* Week 10: As n->∞, what are LLMs?
 	* 12/3, [Do Large Language Models Understand Us?](https://direct.mit.edu/daed/article/151/2/183/110604/Do-Large-Language-Models-Understand-Us) Blaise Agüera y Arcas. Daedalus 2022.
 		
 		[Language Models as Agent Models](https://arxiv.org/abs/2212.01681). Jacob Andreas. 2022.
