@@ -4,7 +4,7 @@ Do LLMs Generalize? (Autumn 2024)
 ## Course staff
 Instructor: Ari Holtzman [contact](mailto:ariholtzman@uchicago.edu)
 
-Office hours: 1:30-2:30pm at Searle 213 on Tuesday and Thursdays or by appointment. (I'm out of office 10/8 and 10/24.)
+Office hours: 1:30-2:30pm at Searle 213 on Tuesday or by appointment. (I'm out of office 10/8 and 10/24.)
 
 ## Logistics
 
