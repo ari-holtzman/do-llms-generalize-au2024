@@ -36,7 +36,7 @@ Schedule
 		Discuss: [Language Models Learn Rare Phenomena from Less Rare Phenomena: The Case of the Missing AANNs](https://arxiv.org/abs/2403.19827). Kanishka Misra, Kyle Mahowald. 2024.
 * Week 5: Do LLMs generalize backwards? 
 	* 10/29, [The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"](https://arxiv.org/abs/2309.12288). Lukas Berglund, Meg Tong, Max Kaufmann, Mikita Balesni, Asa Cooper Stickland, Tomasz Korbak, Owain Evans. ICLR 2024.
-	* 10/31, [Does Refusal Training in LLMs Generalize to the Past Tense?](https://arxiv.org/abs/2407.11969). Maksym Andriushchenko, Nicolas Flammarion. 2024.
+	* 10/31, [Progress measures for grokking via mechanistic interpretability](https://arxiv.org/abs/2301.05217). Neel Nanda, Lawrence Chan, Tom Lieberum, Jess Smith, Jacob Steinhardt. ICLR 2023.
 * Week 6: What information is extractible from LLM hidden states? What information is _writable to_ LLM hidden states? 
 	* 11/5, [Language Models Represent Space and Time](https://arxiv.org/abs/2310.02207). Wes Gurnee, Max Tegmark. ICLR 2024.
 	* 11/7, [Linearly Mapping from Image to Text Space](https://arxiv.org/abs/2209.15162). Jack Merullo, Louis Castricato, Carsten Eickhoff, Ellie Pavlick. ICLR 2023.
